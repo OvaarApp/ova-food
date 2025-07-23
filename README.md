@@ -55,7 +55,7 @@ So when we stumbled upon an inspiring Dribbble design, we took the opportunity t
 
 ### Installation
 
-git clone https://github.com/your-org/food_app.git  
+git clone https://github.com/OvaarApp/ova-food.git 
 cd food_app  
 flutter pub get  
 flutter run
