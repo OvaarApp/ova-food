@@ -102,7 +102,7 @@ class HomeScreen extends StatelessWidget {
                 mainAxisAlignment: MainAxisAlignment.spaceAround,
                 children: [
                   FoodCatBuilder(
-                    svgPath: 'assets/icons/burge.svg',
+                    svgPath: 'assets/icons/burger.svg',
                   ),
                   FoodCatBuilder(
                     imagePath: 'assets/icons/ice-cream.png',
