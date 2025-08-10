@@ -87,4 +87,3 @@ elegant and responsive user interfaces.
 
 - 🌐 Website: https://ovaar.net/
 - 💼 LinkedIn: https://www.linkedin.com/company/ovaar
-- 📧 Email: **contact@ovaar.app**
